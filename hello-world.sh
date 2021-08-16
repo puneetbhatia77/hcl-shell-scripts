@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World from DevOps to test webhook!!"
+echo "Hello World from DevOps to test webhook - test2!!"
