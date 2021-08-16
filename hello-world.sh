@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World from DevOps to test token!!"
+echo "Hello World from DevOps to test polling!!"
